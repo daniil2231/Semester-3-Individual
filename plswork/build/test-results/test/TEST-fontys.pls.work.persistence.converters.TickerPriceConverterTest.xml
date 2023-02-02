@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testsuite name="fontys.pls.work.persistence.converters.TickerPriceConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-13T18:30:16" hostname="LAPTOP-COCCAVFD" time="0.044">
+  <properties/>
+  <testcase name="shouldConvertAllTickerPriceFieldsToDomain()" classname="fontys.pls.work.persistence.converters.TickerPriceConverterTest" time="0.044"/>
+=======
+<testsuite name="fontys.pls.work.persistence.converters.TickerPriceConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-27T14:01:16" hostname="LAPTOP-COCCAVFD" time="0.023">
+  <properties/>
+  <testcase name="shouldConvertAllTickerPriceFieldsToDomain()" classname="fontys.pls.work.persistence.converters.TickerPriceConverterTest" time="0.023"/>
+>>>>>>> main
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

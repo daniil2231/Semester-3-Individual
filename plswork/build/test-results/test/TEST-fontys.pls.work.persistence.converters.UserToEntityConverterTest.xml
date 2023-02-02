@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fontys.pls.work.persistence.converters.UserToEntityConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-13T18:30:24" hostname="LAPTOP-COCCAVFD" time="0.031">
+  <properties/>
+  <testcase name="shouldConvertAllUserFieldsToEntity()" classname="fontys.pls.work.persistence.converters.UserToEntityConverterTest" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

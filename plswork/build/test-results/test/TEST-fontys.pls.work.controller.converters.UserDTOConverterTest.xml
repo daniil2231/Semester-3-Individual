@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fontys.pls.work.controller.converters.UserDTOConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-13T18:27:54" hostname="LAPTOP-COCCAVFD" time="0.041">
+  <properties/>
+  <testcase name="shouldConvertAllUserFieldsToDTO()" classname="fontys.pls.work.controller.converters.UserDTOConverterTest" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

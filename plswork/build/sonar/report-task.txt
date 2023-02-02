@@ -1,0 +1,6 @@
+projectKey=org.fontys.pls.work:plswork
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=org.fontys.pls.work%3Aplswork
+ceTaskId=AYPxdL5adFI2zJxxu8nS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPxdL5adFI2zJxxu8nS
